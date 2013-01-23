@@ -1,0 +1,12 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/crawler.o
+./release/urlCatched.o
+./release/runScanner.o
+./release/formCatched.o
+./release/moc_mainwindow.o
+./release/moc_crawler.o
+./release/moc_runScanner.o
+./release/qrc_tradesou.o
+);

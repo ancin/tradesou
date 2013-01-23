@@ -1,0 +1,12 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/crawler.o
+./debug/urlCatched.o
+./debug/runScanner.o
+./debug/formCatched.o
+./debug/moc_mainwindow.o
+./debug/moc_crawler.o
+./debug/moc_runScanner.o
+./debug/qrc_tradesou.o
+);
